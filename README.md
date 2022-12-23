@@ -2,5 +2,5 @@
 Simple task session tracking tool 
 
 #Branch 
-Production Branch -> Prod
-UAT Branch -> Uat
+ - Production Branch -> Prod
+ - UAT Branch -> Uat
